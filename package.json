@@ -1,0 +1,16 @@
+{
+  "name": "web_apis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api.test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Volodymyr Frolkin",
+  "license": "ISC",
+  "devDependencies": {
+    "axios": "^0.21.1",
+    "jest": "^27.0.4"
+  },
+  "type": "module"
+}
